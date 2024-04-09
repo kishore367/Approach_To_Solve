@@ -8,4 +8,4 @@ Return the minimum of the k largest numbers in our heap(ie. the kth largest one)
 
 Complexity
 Time complexity: O((n+m)∗log(k)) where m is the number of calls to the add method
-Space complexity: O(k)O(k)O(k)​
+Space complexity: O(k)
