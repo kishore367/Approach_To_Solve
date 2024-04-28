@@ -9,5 +9,5 @@ If value equals "null" returns null and increment the counter.
 Else create the tree node, increment the counter and bind nodes in the pre-order traversal by recursive dfs function. Returns the created node.
 
 Complexity
-Time complexity: O(n)O(n)O(n)
-Space complexity: O(n)O(n)O(n)​
+Time complexity: O(n)
+Space complexity: O(n)
