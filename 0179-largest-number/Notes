@@ -1,0 +1,7 @@
+Pick two elements at indices i and j = i + 1.
+Compare them by concatenating in both possible ways (a + b and b + a).
+If a + b is smaller than b + a, swap them.
+Increment i and repeat until the array is sorted.
+
+TC : O(n log n) for sort and depends on Str len o(1) else O(len(longest String));
+ SC = O(n * L)
