@@ -1,0 +1,7 @@
+Approach:
+1)Recursively divide the expression: Treat each operator +, -, * as a potential point to split the expression into two smaller sub-expressions.
+2)Conquer the sub-expressions: Recursively compute all possible values of left and right sub-expressions
+3)Merge the results: For each valid split, combine the results of the left and right parts using current operator at the split
+
+Time complexity: O(2n)
+Space complexity: O(2n)
