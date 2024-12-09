@@ -1,0 +1,15 @@
+Approach 🛠️
+Step 1: Use Two Pointers 🔀
+Step 2: Skip Blank Spaces 🚀
+Step 3: Compare Characters 🧩
+Step 4: Verify Movement Rules 📜
+Step 5: Handle Remaining Characters 🔄
+
+Complexity 📊
+Time Complexity:
+Traverses both strings once, skipping blanks and verifying characters.
+O(n)
+
+Space Complexity:
+Uses constant space for variables.
+O(1)
